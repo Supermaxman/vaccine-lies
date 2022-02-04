@@ -39,6 +39,11 @@ You will need to use the Twitter API to download the text of the annotated tweet
 due to our IRB and Twitter's API policy.
 
 
+## Code
+Code for the above research paper is provided in the following repository:
+[Link](https://github.com/Supermaxman/covid19-vaccine-nlp)
+
+
 ## *CoVaxLies* v1
 The *CoVaxLies* v1 collection is provided for historical purposes at the following repository:
 [Link](https://github.com/Supermaxman/covid19-vaccine-twitter)
