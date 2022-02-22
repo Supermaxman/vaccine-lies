@@ -2,12 +2,19 @@
 
 This repository contains the annotations utilized in the following research paper:
 
-[VaccineLies: A Natural Language Resource for Learning to Recognize Misinformation about the COVID-19 and HPV Vaccines]()
+[VaccineLies: A Natural Language Resource for Learning to Recognize Misinformation about the COVID-19 and HPV Vaccines](https://arxiv.org/abs/2202.09449)
 
 Please cite as the following:
 
 ```
-
+@misc{weinzierl2022vaccinelies,
+	title        = {VaccineLies: A Natural Language Resource for Learning to Recognize Misinformation about the COVID-19 and HPV Vaccines},
+	author       = {Maxwell Weinzierl and Sanda Harabagiu},
+	year         = 2022,
+	eprint       = {2202.09449},
+	archiveprefix = {arXiv},
+	primaryclass = {cs.CL}
+}
 ```
 
 ## *VaccineLies* v1
