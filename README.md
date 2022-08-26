@@ -7,13 +7,16 @@ This repository contains the annotations utilized in the following research pape
 Please cite as the following:
 
 ```
-@misc{weinzierl2022vaccinelies,
-	title        = {VaccineLies: A Natural Language Resource for Learning to Recognize Misinformation about the COVID-19 and HPV Vaccines},
-	author       = {Maxwell Weinzierl and Sanda Harabagiu},
-	year         = 2022,
-	eprint       = {2202.09449},
-	archiveprefix = {arXiv},
-	primaryclass = {cs.CL}
+@InProceedings{weinzierl2022vaccinelies,
+  author    = {Weinzierl, Maxwell  and  Harabagiu, Sanda},
+  title     = {VaccineLies: A Natural Language Resource for Learning to Recognize Misinformation about the COVID-19 and HPV Vaccines},
+  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {6967--6975},
+  url       = {https://aclanthology.org/2022.lrec-1.753}
 }
 ```
 
