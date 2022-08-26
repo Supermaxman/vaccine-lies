@@ -2,7 +2,7 @@
 
 This repository contains the annotations utilized in the following research paper:
 
-[VaccineLies: A Natural Language Resource for Learning to Recognize Misinformation about the COVID-19 and HPV Vaccines](https://arxiv.org/abs/2202.09449)
+[VaccineLies: A Natural Language Resource for Learning to Recognize Misinformation about the COVID-19 and HPV Vaccines](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.753.pdf)
 
 Please cite as the following:
 
